@@ -14,4 +14,8 @@ Start Browser-Sync
 
 	npm start
 
+Copy the following snippet into your 'footer.php'.
+
+---
+
 Browser-Sync detect your file changes.
